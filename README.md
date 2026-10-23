@@ -70,7 +70,7 @@ my-customer-service/
 1. Download the project:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/C115452101/rast-cafe-customer-service.git
    cd my-customer-service
    ```
 
