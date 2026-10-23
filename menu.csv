@@ -1,0 +1,19 @@
+name,category,price,available
+Espresso,Coffee,70,yes
+Americano,Coffee,80,yes
+Cappuccino,Coffee,110,yes
+Cafe Latte,Coffee,120,yes
+Mocha,Coffee,130,yes
+Caramel Latte,Coffee,140,yes
+Matcha Latte,Tea,130,yes
+Black Tea,Tea,80,yes
+Green Tea,Tea,80,yes
+Milk Tea,Tea,100,yes
+Hot Chocolate,Other Drinks,120,yes
+Orange Juice,Other Drinks,100,no
+Croissant,Food,85,yes
+Chocolate Cake,Food,120,yes
+Cheesecake,Food,130,yes
+Ham and Cheese Sandwich,Food,150,yes
+Chicken Sandwich,Food,170,no
+Salad,Food,140,yes
